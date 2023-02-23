@@ -1,0 +1,25 @@
+name: isa
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  equatable: ^2.0.5
+  stack: ^0.2.1
+  collection: ^1.16.0
+  fluent_ui: ^4.0.3+1
+
+flutter:
+  uses-material-design: true
+
+  # assets:
+  #   - images/
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
